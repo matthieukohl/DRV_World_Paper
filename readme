@@ -1,1 +1,5 @@
+Readme File 'Diabatic Rossby Vortex World: Finite Amplitude Effects in Moist Cyclogenesis' (Kohl & O'Gorman 2024, submitted)
 
+Folders moist_qg_code and moist_pe_code contain the dedalus code for the 2-layer moist quasigeostrophic equations and 
+the multi-level moist primitive equation simulations. Model parameters are set in the params.py file. Main model code is contained in the file 
+main.py. 
